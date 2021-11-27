@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Pratis</string>
+    <string name="no_handphone">No Handphone</string>
+    <string name="password">Password</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="alamat">Alamat</string>
+    <string name="daftar_jika_belum_memiliki_akun">DAFTAR JIKA BELUM MEMILIKI AKUN</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="order">Order</string>
+    <string name="profile">Profile</string>
+    <string name="rp_150_000">Rp. 150.000</string>
+    <string name="no_hp">No. hp</string>
+    <string name="periksa">Periksa</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="terkirim_ke_6281234567890">Terkirim ke (+6281234567890)</string>
+    <string name="saya_tidak_menerima_kode">Saya Tidak Menerima Kode OTP!</string>
+    <string name="kirim_ulang_kode">Kirim Ulang Kode</string>
+    <string name="jika_belum_memiliki_akun_silahkan">Jika Belum Memiliki Akun Silahkan </string>
+    <string name="saya_menyetujui">Saya menyetujui</string>
+    <string name="saldo_anda">Saldo Anda</string>
+    <string name="topup">TopUp</string>
+    <string name="history">History</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="hp_salah">No HP Salah</string>
+    <string name="terlalu_banyak">Terlalu Banyak Permintaan, silakan coba dengan nomor telepon lain!</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="pas_nclean">Pas\nClean</string>
+    <string name="pas_npay">Pas\nPay</string>
+    <string name="pas_nmineral">Pas\nMineral</string>
+    <string name="pas_nservice">Pas\nService</string>
+    <string name="pas_mineral">Pas\nMineral</string>
+    <string name="pas_nmove">Pas\nMove</string>
+    <string name="pas_nmassage">Pas\nMassage</string>
+    <string name="pas_nflorist">Pas\nFlorist</string>
+    <string name="pas_ncar">Pas\nCar</string>
+    <string name="pas_nisland">Pas\nIsland</string>
+    <string name="pas_nroom">Pas\nRoom</string>
+
+    <string-array name="gender">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
